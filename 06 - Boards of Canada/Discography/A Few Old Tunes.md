@@ -6,7 +6,25 @@
 
 ## Release Type
 
-Early tape / rare release
+Early tape / rare release / fan-circulated archive
+
+## Factual Status
+
+**Status:** fan-circulated early material / archive object.
+
+Unlike the more obscure pre-*Twoism* tapes, *A Few Old Tunes* is part of the early Boards of Canada material that circulates more visibly in fan spaces. Still, it should be handled as archive material rather than as a normal, official public album.
+
+## What We Actually Know
+
+The important factual point is that this material belongs to the early Boards of Canada archive and is commonly discussed as a collection of pre-canonical or early tracks.
+
+It should be used to understand atmosphere, development and fan reception, but not treated as a fully framed artistic statement in the same way as the official albums.
+
+## What Is Mythology
+
+The mythology comes from the attic-box feeling: fragments, sketches, old signals, material before the world became polished and named.
+
+Listeners often hear later Boards of Canada everywhere inside it. That can be useful, but it is also retrospective. We hear origins partly because we already know what came later.
 
 ## Why It Matters
 
