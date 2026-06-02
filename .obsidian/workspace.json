@@ -11,10 +11,14 @@
             "id": "54b51eaaecd8a7fb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Grafvisnining"
+              "type": "markdown",
+              "state": {
+                "file": "CIA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CIA"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CIA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Lenker tilbake"
+              "title": "Lenker som fører til CIA"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CIA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing Links"
+              "title": "Utgående lenker fra CIA"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "CIA.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Disposisjon"
+              "title": "Disposjon til CIA"
             }
           }
         ]
@@ -179,6 +186,17 @@
   },
   "active": "54b51eaaecd8a7fb",
   "lastOpenFiles": [
+    "12 - Hidden History and Conspiracy/Hidden History and Conspiracy Hub.md",
+    "CIA.md",
+    "10 - Cosmos/Cosmos Hub.md",
+    "06 - Boards of Canada/Discography/Reach for the Dead.md",
+    "03 - Themes/Apocalypse as Overlay.md",
+    "06 - Boards of Canada/Discography/Tomorrow's Harvest.md",
+    "06 - Boards of Canada/Discography/Hooper Bay.md",
+    "06 - Boards of Canada/Discography/Aquarius.md",
+    "06 - Boards of Canada/Discography/Closes Vol. 1.md",
+    "01 - Works/Music/Geogaddi.md",
+    "01 - Works/Television/The OA.md",
     "01 - Works/Film/Stalker.md",
     "04 - Symbol Index/Signal.md",
     "04 - Symbol Index/Antenna.md",
@@ -194,17 +212,6 @@
     "04 - Symbol Index/Radio Tower.md",
     "04 - Symbol Index/Heart.md",
     "04 - Symbol Index/Fire.md",
-    "04 - Symbol Index/Electricity.md",
-    "04 - Symbol Index/Desert.md",
-    "04 - Symbol Index/Children.md",
-    "03 - Themes/Entropy.md",
-    "03 - Themes/Decay.md",
-    "00 - Start Here/Home.md",
-    "06 - Boards of Canada/Discography/Aquarius.md",
-    "06 - Boards of Canada/Discography/A Few Old Tunes.md",
-    "06 - Boards of Canada/Discography/Trans Canada Highway.md",
-    "06 - Boards of Canada/Discography/Random 35 Tracks Tape.md",
-    "06 - Boards of Canada/Discography/Play by Numbers.md",
     "90 - Style",
     "12 - Hidden History and Conspiracy",
     "11 - Psyche and Consciousness",
