@@ -8,6 +8,24 @@
 
 Early tape / rare release
 
+## Factual Status
+
+**Status:** rare early release / mostly archive-mythology object for ordinary listeners.
+
+This should not be treated like a fully available public release. It belongs to the early Boards of Canada prehistory, but much of its force inside fan culture comes from limited access and incomplete context.
+
+## What We Actually Know
+
+*Closes Vol. 1* is generally placed among the early Boards of Canada tape releases, before the project became publicly legible through *Twoism*, *Hi Scores* and later albums.
+
+The safe factual claim is its position in that early-release mythology. Anything beyond that should be sourced before being stated confidently.
+
+## What Is Mythology
+
+The mythology is the private-archive feeling: the sense of a hidden room before the official discography begins.
+
+That feeling may be emotionally true even where details are sparse.
+
 ## Why It Matters
 
 *Closes Vol. 1* belongs to the hidden beginning of Boards of Canada.
