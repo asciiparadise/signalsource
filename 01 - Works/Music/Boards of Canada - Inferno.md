@@ -1,4 +1,4 @@
-# Boards of Canada - Inferno
+# Inferno
 
 ## Type
 Work

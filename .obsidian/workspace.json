@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CIA.md",
+                "file": "01 - Works/Music/Boards of Canada - Inferno.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CIA"
+              "title": "Boards of Canada - Inferno"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CIA.md",
+                "file": "01 - Works/Music/Boards of Canada - Inferno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Lenker som fører til CIA"
+              "title": "Lenker som fører til Boards of Canada - Inferno"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CIA.md",
+                "file": "01 - Works/Music/Boards of Canada - Inferno.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Utgående lenker fra CIA"
+              "title": "Utgående lenker fra Boards of Canada - Inferno"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CIA.md",
+                "file": "01 - Works/Music/Boards of Canada - Inferno.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Disposjon til CIA"
+              "title": "Disposjon til Boards of Canada - Inferno"
             }
           }
         ]
@@ -186,8 +186,11 @@
   },
   "active": "54b51eaaecd8a7fb",
   "lastOpenFiles": [
-    "12 - Hidden History and Conspiracy/Hidden History and Conspiracy Hub.md",
+    "01 - Works/Music/Geogaddi.md",
+    "01 - Works/Film/Mulholland Drive.md",
     "CIA.md",
+    "01 - Works/Film/Lost Highway.md",
+    "12 - Hidden History and Conspiracy/Hidden History and Conspiracy Hub.md",
     "10 - Cosmos/Cosmos Hub.md",
     "06 - Boards of Canada/Discography/Reach for the Dead.md",
     "03 - Themes/Apocalypse as Overlay.md",
@@ -195,7 +198,6 @@
     "06 - Boards of Canada/Discography/Hooper Bay.md",
     "06 - Boards of Canada/Discography/Aquarius.md",
     "06 - Boards of Canada/Discography/Closes Vol. 1.md",
-    "01 - Works/Music/Geogaddi.md",
     "01 - Works/Television/The OA.md",
     "01 - Works/Film/Stalker.md",
     "04 - Symbol Index/Signal.md",
@@ -210,8 +212,6 @@
     "04 - Symbol Index/Tape.md",
     "04 - Symbol Index/Static.md",
     "04 - Symbol Index/Radio Tower.md",
-    "04 - Symbol Index/Heart.md",
-    "04 - Symbol Index/Fire.md",
     "90 - Style",
     "12 - Hidden History and Conspiracy",
     "11 - Psyche and Consciousness",
