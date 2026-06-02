@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Works/Music/Boards of Canada - Inferno.md",
+                "file": "01 - Works/Music/#Inferno.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Boards of Canada - Inferno"
+              "title": "#Inferno"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Works/Music/Boards of Canada - Inferno.md",
+                "file": "01 - Works/Music/#Inferno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Lenker som fører til Boards of Canada - Inferno"
+              "title": "Lenker som fører til #Inferno"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Works/Music/Boards of Canada - Inferno.md",
+                "file": "01 - Works/Music/#Inferno.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Utgående lenker fra Boards of Canada - Inferno"
+              "title": "Utgående lenker fra #Inferno"
             }
           },
           {
@@ -156,21 +156,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Works/Music/Boards of Canada - Inferno.md",
+                "file": "01 - Works/Music/#Inferno.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Disposjon til Boards of Canada - Inferno"
+              "title": "Disposjon til #Inferno"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
