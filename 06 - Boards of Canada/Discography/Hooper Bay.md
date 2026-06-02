@@ -8,6 +8,24 @@
 
 Early tape / rare release
 
+## Factual Status
+
+**Status:** rare early release / largely archive-mythology object.
+
+This note should be read with caution. *Hooper Bay* belongs to the early Boards of Canada prehistory, but it should not be treated like a normal public album or EP with stable context and ordinary critical access.
+
+## What We Actually Know
+
+*Hooper Bay* is generally listed among the early Boards of Canada tape releases, before the public-facing discography became established.
+
+Specific claims about its sound or content should be sourced before being treated as fact.
+
+## What Is Mythology
+
+Much of the force here comes from the title and its position in the archive.
+
+The name suggests place, distance and landscape. That reading is useful for Signal Source, but it is interpretive rather than a factual claim about the release.
+
 ## Why It Matters
 
 *Hooper Bay* has that same strange quality as the other early tape titles: it feels like a place before it feels like a record.
