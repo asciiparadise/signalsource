@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "9656ed351e86a806",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fbb82ac8bfdc972",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54b51eaaecd8a7fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Works/Music/Boards of Canada - Inferno.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Boards of Canada - Inferno"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "56269c33b93286ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee3776301c4f7032",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6903e3d6c4143ec0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Filutforsker"
+            }
+          },
+          {
+            "id": "cbb7d2e62a0061e0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Søk"
+            }
+          },
+          {
+            "id": "443a0d1800091411",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bokmerker"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9e0ef3deec7da9a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "22c922f57b030465",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "977000fe20937823",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 - Works/Music/Boards of Canada - Inferno.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Lenker som fører til Boards of Canada - Inferno"
+            }
+          },
+          {
+            "id": "d3b94eaeeb4b3f6f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 - Works/Music/Boards of Canada - Inferno.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Utgående lenker fra Boards of Canada - Inferno"
+            }
+          },
+          {
+            "id": "a538b6f0776772f1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tagger"
+            }
+          },
+          {
+            "id": "892d02755c546301",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Alle egenskaper"
+            }
+          },
+          {
+            "id": "da394627620cf26f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 - Works/Music/Boards of Canada - Inferno.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Disposjon til Boards of Canada - Inferno"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Åpne hurtigåpner": false,
+      "graph:Åpne grafvisning": false,
+      "canvas:Opprett ny Canvas": false,
+      "daily-notes:Åpne dagens notat": false,
+      "templates:Sett inn mal": false,
+      "command-palette:Åpne kommandovelger": false,
+      "bases:Opprett ny base": false
+    }
+  },
+  "active": "54b51eaaecd8a7fb",
+  "lastOpenFiles": [
+    "06 - Boards of Canada/Boards of Canada - Interviews.md",
+    "04 - Symbol Index/Hexagon.md",
+    "03 - Themes/The Occult.md",
+    "03 - Themes/Signal and Noise.md"
+  ]
+}
