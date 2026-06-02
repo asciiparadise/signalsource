@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Works/Music/Boards of Canada - Inferno.md",
+                "file": "06 - Boards of Canada/Articles/Corduroy Psychedelia - Boards of Canada Hauntology and the PBS Unconscious.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Boards of Canada - Inferno"
+              "title": "Corduroy Psychedelia - Boards of Canada Hauntology and the PBS Unconscious"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Works/Music/Boards of Canada - Inferno.md",
+                "file": "06 - Boards of Canada/Articles/Corduroy Psychedelia - Boards of Canada Hauntology and the PBS Unconscious.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Lenker som fører til Boards of Canada - Inferno"
+              "title": "Lenker som fører til Corduroy Psychedelia - Boards of Canada Hauntology and the PBS Unconscious"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Works/Music/Boards of Canada - Inferno.md",
+                "file": "06 - Boards of Canada/Articles/Corduroy Psychedelia - Boards of Canada Hauntology and the PBS Unconscious.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Utgående lenker fra Boards of Canada - Inferno"
+              "title": "Utgående lenker fra Corduroy Psychedelia - Boards of Canada Hauntology and the PBS Unconscious"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Works/Music/Boards of Canada - Inferno.md",
+                "file": "06 - Boards of Canada/Articles/Corduroy Psychedelia - Boards of Canada Hauntology and the PBS Unconscious.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Disposjon til Boards of Canada - Inferno"
+              "title": "Disposjon til Corduroy Psychedelia - Boards of Canada Hauntology and the PBS Unconscious"
             }
           }
         ]
@@ -180,12 +180,19 @@
       "daily-notes:Åpne dagens notat": false,
       "templates:Sett inn mal": false,
       "command-palette:Åpne kommandovelger": false,
-      "bases:Opprett ny base": false
+      "bases:Opprett ny base": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "54b51eaaecd8a7fb",
   "lastOpenFiles": [
+    "06 - Boards of Canada/Boards of Canada Hub.md",
     "06 - Boards of Canada/Boards of Canada - Interviews.md",
+    "06 - Boards of Canada/Listening Parties/Inferno Listening Party Report.md",
+    "01 - Works/Music/Boards of Canada - Inferno.md",
+    "06 - Boards of Canada/Listening Parties",
+    "06 - Boards of Canada/Articles/Corduroy Psychedelia - Boards of Canada Hauntology and the PBS Unconscious.md",
+    "06 - Boards of Canada/Articles",
     "04 - Symbol Index/Hexagon.md",
     "03 - Themes/The Occult.md",
     "03 - Themes/Signal and Noise.md"
