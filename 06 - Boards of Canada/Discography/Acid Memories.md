@@ -8,6 +8,24 @@
 
 Early tape / rare release
 
+## Factual Status
+
+**Status:** rare early release / largely inaccessible to ordinary listeners.
+
+This note should be treated carefully. *Acid Memories* is part of the documented early Boards of Canada release mythology, but it is not a normal public release that can be discussed with the same confidence as *Music Has the Right to Children* or *Geogaddi*.
+
+## What We Actually Know
+
+The important factual point is limited: *Acid Memories* belongs to the early, pre-public Boards of Canada archive and is usually discussed as one of the scarce early tape releases.
+
+Beyond that, the details should be handled cautiously unless supported by a specific source.
+
+## What Is Mythology
+
+Most of the emotional force around *Acid Memories* comes from absence.
+
+The title, rarity and position near the beginning of the archive make it feel like an origin object. That does not mean every feeling attached to it is factual. It means the lack of access has become part of its cultural role.
+
 ## Why It Matters
 
 *Acid Memories* feels important almost because most of us cannot really hold it properly.
