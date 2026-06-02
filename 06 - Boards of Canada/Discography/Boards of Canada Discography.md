@@ -1,36 +1,39 @@
 # Boards of Canada Discography
 
-## Type
-Discography / Map of Content
+This is the map of the Boards of Canada releases inside Signal Source.
 
-## Purpose
+I do not want it to behave like a normal discography. Dates and labels matter, but they are not the main thing here. What matters more is the role each release plays in the larger world they built.
 
-A working map of Boards of Canada's official albums, EPs, tapes, mixes, compilation appearances and related broadcasts.
+Some records feel like childhood. Some feel like shadow. Some feel like landscape. Some feel like collapse. The early tapes feel almost like lost media, or recovered memories from a version of the band that only half exists in public.
 
-This page is not only a release list. It is a navigation surface for the larger Boards of Canada section of Signal Source.
+That is why the discography matters here. It is not just a sequence of releases. It is a strange emotional chronology.
 
 ## Studio Albums
 
-- [[Music Has the Right to Children]]
-- [[Geogaddi]]
-- [[The Campfire Headphase]]
-- [[Tomorrow's Harvest]]
-- [[Boards of Canada - Inferno]]
+- [[Music Has the Right to Children]] — childhood, public broadcasting, memory before explanation.
+- [[Geogaddi]] — the shadow arrives; numerology, cult unease, occult surface, deeper dread.
+- [[The Campfire Headphase]] — open air, roads, guitars, sunlight, pastoral escape.
+- [[Tomorrow's Harvest]] — entropy, collapse, survival after the future has failed.
+- [[Boards of Canada - Inferno]] — mortality, religion, family memory, fire, heartbeat.
 
 ## EPs and Singles
 
-- [[Twoism]]
-- [[Hi Scores]]
-- [[Aquarius]]
-- [[Music Has the Right to Children EP]]
-- [[Peel Session TX 21-07-1998]]
-- [[In a Beautiful Place Out in the Country]]
-- [[Trans Canada Highway]]
-- [[Reach for the Dead]]
+- [[Twoism]] — the threshold between private tapes and public identity.
+- [[Hi Scores]] — the first sharp public signal.
+- [[Aquarius]] — childhood counting, play, repetition, the uncanny made bright.
+- [[Music Has the Right to Children EP]] — satellite material around the first great world.
+- [[Peel Session TX 21-07-1998]] — the live broadcast as artefact.
+- [[In a Beautiful Place Out in the Country]] — the cult note; withdrawal, beauty, belief.
+- [[Trans Canada Highway]] — movement, distance, road memory.
+- [[Reach for the Dead]] — the return signal after silence.
 
 ## Early Tapes / Rare Releases
 
-These are part of Boards of Canada's mythology as much as their discography. Many are scarce, partially documented, bootlegged, disputed in circulation, or known primarily through fan archives.
+These are not just obscure releases.
+
+They are part of the mythology.
+
+Maybe that is partly because they are difficult to access, partly because they circulate through fan memory, and partly because Boards of Canada always made scarcity feel meaningful. The gaps become part of the music.
 
 - [[Acid Memories]]
 - [[Closes Vol. 1]]
@@ -42,7 +45,7 @@ These are part of Boards of Canada's mythology as much as their discography. Man
 
 ## Mixes / Broadcasts / Long-form Works
 
-- [[Societas x Tape]]
+- [[Societas x Tape]] — maybe the closest thing to an influence map they have ever given us.
 
 ## Related Notes
 
@@ -55,8 +58,12 @@ These are part of Boards of Canada's mythology as much as their discography. Man
 - [[Public Broadcasting]]
 - [[Signal and Noise]]
 
-## Working Principle
+## Signal Source Reading
 
-The official discography tells one story.
+The official albums tell one story.
 
-The tapes, EPs, broadcasts and half-hidden material tell another: one of fragments, lost signals, fan recovery, myth and incomplete memory.
+The tapes, EPs, broadcasts and half-hidden material tell another.
+
+That second story might be the more interesting one. It is made from fragments, bootlegs, rumours, fan recovery, old links, damaged files and incomplete memory. It is very Boards of Canada that the missing or half-visible material feels almost as important as the canonical work.
+
+The absence becomes part of the atmosphere.
