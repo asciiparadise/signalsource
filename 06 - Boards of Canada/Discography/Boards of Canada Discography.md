@@ -2,11 +2,23 @@
 
 This is the map of the Boards of Canada releases inside Signal Source.
 
-I do not want it to behave like a normal discography. Dates and labels matter, but they are not the main thing here. What matters more is the role each release plays in the larger world they built.
+It should not behave like a normal discography. Dates and labels matter, but they are not the main thing here. What matters is the role each release plays in the larger world they built.
 
-Some records feel like childhood. Some feel like shadow. Some feel like landscape. Some feel like collapse. The early tapes feel almost like lost media, or recovered memories from a version of the band that only half exists in public.
+The cleanup principle is simple:
 
-That is why the discography matters here. It is not just a sequence of releases. It is a strange emotional chronology.
+Boards of Canada have two discographies.
+
+One is public.
+
+One is archival and mythological.
+
+Both matter.
+
+---
+
+# 1. Public Discography
+
+These are the releases that form the visible, public-facing Boards of Canada arc.
 
 ## Studio Albums
 
@@ -16,24 +28,53 @@ That is why the discography matters here. It is not just a sequence of releases.
 - [[Tomorrow's Harvest]] — entropy, collapse, survival after the future has failed.
 - [[Boards of Canada - Inferno]] — mortality, religion, family memory, fire, heartbeat.
 
-## EPs and Singles
+## EPs / Singles / Sessions
 
 - [[Twoism]] — the threshold between private tapes and public identity.
 - [[Hi Scores]] — the first sharp public signal.
-- [[Aquarius]] — childhood counting, play, repetition, the uncanny made bright.
+- [[Aquarius]] — childhood counting, play, repetition, numbers as ritual.
 - [[Music Has the Right to Children EP]] — satellite material around the first great world.
-- [[Peel Session TX 21-07-1998]] — the live broadcast as artefact.
+- [[Peel Session TX 21-07-1998]] — broadcast as artefact.
 - [[In a Beautiful Place Out in the Country]] — the cult note; withdrawal, beauty, belief.
 - [[Trans Canada Highway]] — movement, distance, road memory.
 - [[Reach for the Dead]] — the return signal after silence.
 
+## Public Arc
+
+```text
+Twoism / Hi Scores
+        ↓
+Music Has the Right to Children
+        ↓
+Geogaddi
+        ↓
+The Campfire Headphase
+        ↓
+Tomorrow's Harvest
+        ↓
+Inferno
+```
+
+A rough emotional arc:
+
+```text
+private signal
+→ childhood
+→ shadow
+→ landscape
+→ entropy
+→ mortality
+```
+
+---
+
+# 2. Archive / Mythology Discography
+
+These releases and objects belong to the half-hidden Boards of Canada world.
+
+They should always be handled with factual caution. Some are circulated, some are rare, some are known through archives and fan documentation, and some function almost more as mythology than as ordinary releases.
+
 ## Early Tapes / Rare Releases
-
-These are not just obscure releases.
-
-They are part of the mythology.
-
-Maybe that is partly because they are difficult to access, partly because they circulate through fan memory, and partly because Boards of Canada always made scarcity feel meaningful. The gaps become part of the music.
 
 - [[Acid Memories]]
 - [[Closes Vol. 1]]
@@ -43,11 +84,71 @@ Maybe that is partly because they are difficult to access, partly because they c
 - [[Old Tunes Vol. 2]]
 - [[Random 35 Tracks Tape]]
 
-## Mixes / Broadcasts / Long-form Works
+## Broadcasts / Mixes / Influence Maps
 
 - [[Societas x Tape]] — maybe the closest thing to an influence map they have ever given us.
 
-## Related Notes
+## Archive Arc
+
+```text
+Acid Memories / Closes Vol. 1 / Play by Numbers / Hooper Bay
+        ↓
+A Few Old Tunes / Old Tunes Vol. 2 / Random 35 Tracks Tape
+        ↓
+Twoism
+        ↓
+Public Discography
+```
+
+The archive material matters because it makes Boards of Canada feel excavated rather than simply released.
+
+The absence becomes part of the atmosphere.
+
+---
+
+# 3. Cleanup Status
+
+## Needs Factual Status Sections
+
+The following notes should be improved with:
+
+```markdown
+## Factual Status
+
+## What We Actually Know
+
+## What Is Mythology
+```
+
+- [[Acid Memories]]
+- [[Closes Vol. 1]]
+- [[Play by Numbers]]
+- [[Hooper Bay]]
+- [[A Few Old Tunes]]
+- [[Old Tunes Vol. 2]]
+- [[Random 35 Tracks Tape]]
+
+## Needs More Factual Detail
+
+- [[Music Has the Right to Children EP]]
+- [[Peel Session TX 21-07-1998]]
+
+## Stronger Notes
+
+- [[Boards of Canada Hub]]
+- [[Boards of Canada Mythology]]
+- [[Music Has the Right to Children]]
+- [[Geogaddi]]
+- [[Twoism]]
+- [[Hi Scores]]
+- [[In a Beautiful Place Out in the Country]]
+- [[The Campfire Headphase]]
+- [[Tomorrow's Harvest]]
+- [[Societas x Tape]]
+
+---
+
+# 4. Related Notes
 
 - [[Boards of Canada Hub]]
 - [[Boards of Canada Mythology]]
@@ -57,13 +158,19 @@ Maybe that is partly because they are difficult to access, partly because they c
 - [[Hauntology]]
 - [[Public Broadcasting]]
 - [[Signal and Noise]]
+- [[Lost Media]]
+- [[Fan Archaeology]]
 
-## Signal Source Reading
+---
 
-The official albums tell one story.
+# Signal Source Reading
 
-The tapes, EPs, broadcasts and half-hidden material tell another.
+The public albums tell one story.
 
-That second story might be the more interesting one. It is made from fragments, bootlegs, rumours, fan recovery, old links, damaged files and incomplete memory. It is very Boards of Canada that the missing or half-visible material feels almost as important as the canonical work.
+The archive tells another.
 
-The absence becomes part of the atmosphere.
+The public story is the music as released into the world. The archive story is stranger: fragments, rumours, bootlegs, recovered files, old links, fan memory and the emotional charge of missing context.
+
+For most artists, the archive is secondary.
+
+For Boards of Canada, the archive feels like part of the instrument.
