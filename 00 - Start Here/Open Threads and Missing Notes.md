@@ -65,6 +65,8 @@ Factual-status sections added to:
 - [[The Big Bang]]
 - [[Black Holes]]
 - [[Saturn]]
+- [[Astrology]]
+- [[Zodiac]]
 - [[MKUltra]]
 - [[Number Stations]]
 
@@ -168,12 +170,9 @@ Split this area clearly into scientific cosmos and symbolic cosmos.
 - [[The Big Bang]]
 - [[Black Holes]]
 - [[Saturn]]
-- [[Music of the Spheres]]
-
-## Still Needed
-
 - [[Astrology]]
 - [[Zodiac]]
+- [[Music of the Spheres]]
 
 ## Later / Optional
 
