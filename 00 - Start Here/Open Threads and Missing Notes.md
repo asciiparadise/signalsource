@@ -35,9 +35,50 @@ Factual-status sections added to:
 - [[Old Tunes Vol. 2]]
 - [[Random 35 Tracks Tape]]
 
+## Core Concepts / Psyche Notes Added
+
+- [[Dream Logic]]
+- [[Sacred Technology]]
+- [[The Past Inside the Present]]
+- [[The Death of Nostalgia]]
+- [[Hidden Architecture]]
+- [[The Witness]]
+- [[Symbolic Thinking]]
+- [[Trauma]]
+- [[The Shadow]]
+- [[Consciousness]]
+- [[The Psyche]]
+- [[The Self]]
+- [[Dreams]]
+- [[Altered States]]
+- [[Dissociation]]
+
+## Philosophy / Cosmos / Hidden History Notes Added
+
+- [[Plato]]
+- [[Pythagoras]]
+- [[Platonia]]
+- [[Music of the Spheres]]
+- [[Carl Jung]]
+- [[Walter Benjamin]]
+- [[Mark Fisher]]
+- [[The Big Bang]]
+- [[Black Holes]]
+- [[Saturn]]
+- [[Astrology]]
+- [[Zodiac]]
+- [[CIA]]
+- [[FBI]]
+- [[Agent Orange]]
+- [[Montauk Project]]
+- [[Cold War Paranoia]]
+- [[Conspiracy Theories]]
+- [[MKUltra]]
+- [[Number Stations]]
+
 ---
 
-# Highest Priority: Create or Clean Core Concepts
+# Highest Priority: Remaining Core Concepts
 
 These notes are central because many other notes link to them.
 
@@ -50,9 +91,6 @@ These notes are central because many other notes link to them.
 - [[Tape]]
 - [[Static]]
 - [[Electricity]]
-
-## Needs Creation or Cleanup
-
 - [[Dream Logic]]
 - [[Sacred Technology]]
 - [[The Past Inside the Present]]
@@ -62,6 +100,16 @@ These notes are central because many other notes link to them.
 - [[Symbolic Thinking]]
 - [[Trauma]]
 - [[The Shadow]]
+- [[Consciousness]]
+- [[The Psyche]]
+- [[The Self]]
+- [[Dreams]]
+- [[Altered States]]
+- [[Dissociation]]
+
+## Needs Creation or Cleanup
+
+- None urgent in this cluster.
 
 ---
 
@@ -89,18 +137,19 @@ Recommended: keep all BoC release notes inside the BoC domain eventually.
 
 Do not create every philosopher yet.
 
-Create only the bridge notes that the vault actually needs.
-
-## Priority Notes
+## Priority Notes Completed
 
 - [[Plato]]
 - [[Pythagoras]]
 - [[Platonia]]
 - [[Music of the Spheres]]
-- [[Quadrivium]]
 - [[Carl Jung]]
 - [[Walter Benjamin]]
 - [[Mark Fisher]]
+
+## Still Needed
+
+- [[Quadrivium]]
 
 ## Later / Optional
 
@@ -122,7 +171,7 @@ Create only the bridge notes that the vault actually needs.
 
 Split this area clearly into scientific cosmos and symbolic cosmos.
 
-## Priority Notes
+## Priority Notes Completed
 
 - [[The Big Bang]]
 - [[Black Holes]]
@@ -146,7 +195,7 @@ Split this area clearly into scientific cosmos and symbolic cosmos.
 
 # Psyche and Consciousness: Reduce Dead Links
 
-## Priority Notes
+## Priority Notes Completed
 
 - [[Consciousness]]
 - [[The Psyche]]
@@ -170,7 +219,20 @@ Split this area clearly into scientific cosmos and symbolic cosmos.
 
 # Hidden History and Conspiracy Cleanup
 
-This section needs evidence-status discipline before expansion.
+## Priority Notes Completed
+
+- [[CIA]]
+- [[FBI]]
+- [[Agent Orange]]
+- [[Montauk Project]]
+- [[Cold War Paranoia]]
+- [[Conspiracy Theories]]
+- [[MKUltra]]
+- [[Number Stations]]
+
+## Ongoing Rule
+
+This section needs evidence-status discipline.
 
 Every note should contain:
 
@@ -179,17 +241,6 @@ Every note should contain:
 
 Documented / disputed / folklore / artistic influence.
 ```
-
-## Priority Notes
-
-- [[MKUltra]]
-- [[Number Stations]]
-- [[CIA]]
-- [[FBI]]
-- [[Agent Orange]]
-- [[Montauk Project]]
-- [[Cold War Paranoia]]
-- [[Conspiracy Theories]]
 
 ---
 
