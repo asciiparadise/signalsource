@@ -35,9 +35,37 @@ Factual-status sections added to:
 - [[Old Tunes Vol. 2]]
 - [[Random 35 Tracks Tape]]
 
+## Core Concepts / Psyche Notes Added
+
+- [[Dream Logic]]
+- [[Sacred Technology]]
+- [[The Past Inside the Present]]
+- [[The Death of Nostalgia]]
+- [[Hidden Architecture]]
+- [[The Witness]]
+- [[Symbolic Thinking]]
+- [[Trauma]]
+- [[The Shadow]]
+- [[Consciousness]]
+
+## Philosophy / Cosmos / Hidden History Notes Added
+
+- [[Plato]]
+- [[Pythagoras]]
+- [[Platonia]]
+- [[Music of the Spheres]]
+- [[Carl Jung]]
+- [[Walter Benjamin]]
+- [[Mark Fisher]]
+- [[The Big Bang]]
+- [[Black Holes]]
+- [[Saturn]]
+- [[MKUltra]]
+- [[Number Stations]]
+
 ---
 
-# Highest Priority: Create or Clean Core Concepts
+# Highest Priority: Remaining Core Concepts
 
 These notes are central because many other notes link to them.
 
@@ -50,9 +78,6 @@ These notes are central because many other notes link to them.
 - [[Tape]]
 - [[Static]]
 - [[Electricity]]
-
-## Needs Creation or Cleanup
-
 - [[Dream Logic]]
 - [[Sacred Technology]]
 - [[The Past Inside the Present]]
@@ -62,6 +87,15 @@ These notes are central because many other notes link to them.
 - [[Symbolic Thinking]]
 - [[Trauma]]
 - [[The Shadow]]
+- [[Consciousness]]
+
+## Needs Creation or Cleanup
+
+- [[The Self]]
+- [[The Psyche]]
+- [[Dreams]]
+- [[Altered States]]
+- [[Dissociation]]
 
 ---
 
@@ -89,18 +123,19 @@ Recommended: keep all BoC release notes inside the BoC domain eventually.
 
 Do not create every philosopher yet.
 
-Create only the bridge notes that the vault actually needs.
-
-## Priority Notes
+## Priority Notes Completed
 
 - [[Plato]]
 - [[Pythagoras]]
 - [[Platonia]]
 - [[Music of the Spheres]]
-- [[Quadrivium]]
 - [[Carl Jung]]
 - [[Walter Benjamin]]
 - [[Mark Fisher]]
+
+## Still Needed
+
+- [[Quadrivium]]
 
 ## Later / Optional
 
@@ -122,14 +157,17 @@ Create only the bridge notes that the vault actually needs.
 
 Split this area clearly into scientific cosmos and symbolic cosmos.
 
-## Priority Notes
+## Priority Notes Completed
 
 - [[The Big Bang]]
 - [[Black Holes]]
 - [[Saturn]]
+- [[Music of the Spheres]]
+
+## Still Needed
+
 - [[Astrology]]
 - [[Zodiac]]
-- [[Music of the Spheres]]
 
 ## Later / Optional
 
@@ -146,17 +184,20 @@ Split this area clearly into scientific cosmos and symbolic cosmos.
 
 # Psyche and Consciousness: Reduce Dead Links
 
-## Priority Notes
+## Priority Notes Completed
 
 - [[Consciousness]]
+- [[The Shadow]]
+- [[Trauma]]
+- [[Symbolic Thinking]]
+
+## Still Needed
+
 - [[The Psyche]]
 - [[The Self]]
-- [[The Shadow]]
 - [[Dreams]]
-- [[Trauma]]
 - [[Altered States]]
 - [[Dissociation]]
-- [[Symbolic Thinking]]
 
 ## Later / Optional
 
@@ -180,10 +221,13 @@ Every note should contain:
 Documented / disputed / folklore / artistic influence.
 ```
 
-## Priority Notes
+## Priority Notes Completed
 
 - [[MKUltra]]
 - [[Number Stations]]
+
+## Still Needed
+
 - [[CIA]]
 - [[FBI]]
 - [[Agent Orange]]
