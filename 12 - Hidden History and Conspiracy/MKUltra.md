@@ -26,6 +26,16 @@ LSD and other substances were used in some experiments, often in ethically abusi
 
 The full scope remains difficult to reconstruct because many records were destroyed.
 
+## Related Operations and Neighbouring Cases
+
+These are not all the same kind of thing, but they belong in the same hidden-history constellation.
+
+- [[Operation Midnight Climax]] — MKUltra sub-project involving safehouses, sex workers, unwitting subjects and LSD observation.
+- [[Project Stargate]] — government-funded remote-viewing research, more psychic-paranormal than chemical mind-control.
+- [[COINTELPRO]] — FBI domestic surveillance and disruption programme; not MKUltra, but part of the same trust-breaking institutional landscape.
+- [[Tuskegee Syphilis Study]] — medical betrayal by public institutions; not intelligence work, but crucial for understanding why official abuse is not only a paranoid fantasy.
+- [[Operation Northwoods]] — rejected false-flag proposal; important because it shows that extreme plans could be formally drafted even when not executed.
+
 ## What Is Mythology
 
 The mythology around MKUltra is larger than the documented facts.
@@ -50,6 +60,8 @@ This connects to cults, trauma, paranoia, altered states and the darker side of 
 
 - [[Hidden History and Conspiracy Hub]]
 - [[CIA]]
+- [[Operation Midnight Climax]]
+- [[Project Stargate]]
 - [[Psychological Operations]]
 - [[Mind Control Mythology]]
 - [[Consciousness]]
