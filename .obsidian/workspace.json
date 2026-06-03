@@ -11,14 +11,10 @@
             "id": "54b51eaaecd8a7fb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Works/Literature/House of Leaves.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "House of Leaves"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Grafvisnining"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "leaves",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +70,7 @@
               "title": "Bokmerker"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Works/Literature/House of Leaves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Lenker som fører til House of Leaves"
+              "title": "Lenker tilbake"
             }
           },
           {
@@ -186,9 +180,18 @@
   },
   "active": "54b51eaaecd8a7fb",
   "lastOpenFiles": [
+    "00 - Start Here/Open Threads and Missing Notes.md",
+    "05 - Concepts/Dream Logic.md",
+    "01 - Works/Literature/House of Leaves.md",
+    "04 - Symbol Index/Labyrinth.md",
+    "02 - People/Goethe.md",
+    "02 - People",
+    "01 - Works/Literature/Faust.md",
+    "01 - Works/Literature/Dante - Purgatorio.md",
+    "01 - Works/Literature/Dante - Paradiso.md",
+    "01 - Works/Literature/Dante - Inferno.md",
     "01 - Works/Literature/Dante - The Divine Comedy.md",
     "03 - Themes/Architecture.md",
-    "00 - Start Here/Open Threads and Missing Notes.md",
     "03 - Themes/Ludwig Mies van der Rohe.md",
     "Corporate Modernism.md",
     "01 - Works/Film/The Ninth Gate.md",
@@ -204,14 +207,6 @@
     "06 - Boards of Canada/Discography/Boards of Canada Discography.md",
     "06 - Boards of Canada/Discography/Acid Memories.md",
     "06 - Boards of Canada/Discography/A Few Old Tunes.md",
-    "06 - Boards of Canada/Articles/Hexagons Everywhere - Inferno Listening Session Afterimage.md",
-    "06 - Boards of Canada/Articles/Corduroy Psychedelia - Boards of Canada Hauntology and the PBS Unconscious.md",
-    "Satanic Panic.md",
-    "09 - Philosophy/Philosophy Hub.md",
-    "03 - Themes/Mathematics and Music.md",
-    "09 - Philosophy/Walter Benjamin.md",
-    "09 - Philosophy/Carl Jung.md",
-    "10 - Cosmos/Saturn.md",
     "13 - Religion Culture and Tradition",
     "05 - Concepts",
     "90 - Style",
@@ -220,7 +215,6 @@
     "10 - Cosmos",
     "09 - Philosophy",
     "06 - Boards of Canada/Discography",
-    "08 - Twin Peaks and David Lynch",
-    "07 - Cults and Esoterica"
+    "08 - Twin Peaks and David Lynch"
   ]
 }
