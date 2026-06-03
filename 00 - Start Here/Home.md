@@ -1,17 +1,38 @@
 # Signal Source Home
 
-Signal Source is a vault for works, symbols and ideas that keep returning.
+Signal Source is a vault for artists, works, symbols and ideas that keep returning.
 
-The point is not to build a giant encyclopedia. The point is to understand why certain things stay alive in memory: records, films, books, images, occult systems, ruins, broadcasts, numbers, dreams, conspiracies, landscapes and fragments.
+The vault has moved from expansion into cleanup.
 
-Some notes are finished enough to read as essays. Some are still scaffolding. That distinction matters now.
+The structure should now become more literal and predictable:
+
+```text
+Artists
+→ Works
+→ Concepts
+→ Symbols
+→ Fields
+→ Hidden Systems
+```
+
+The point is still not to build a giant encyclopedia. The point is to understand why certain things stay alive in memory: records, films, books, images, occult systems, ruins, broadcasts, numbers, dreams, conspiracies, landscapes and fragments.
 
 ## Start Here
 
+- [[Straight Structure - Target Taxonomy]]
+- [[Artist Index]]
 - [[Vault Audit - Structure and Cleanup]]
 - [[Open Threads and Missing Notes]]
-- [[My Reflective Style]]
 - [[Modern Art Canon]]
+- [[My Reflective Style]]
+
+## Main Indexes
+
+- [[Artist Index]]
+- [[Modern Art Canon]]
+- [[Concepts Hub]]
+- [[Symbol Index Hub]]
+- [[Boards of Canada Discography]]
 
 ## Main Research Areas
 
@@ -25,7 +46,6 @@ Some notes are finished enough to read as essays. Some are still scaffolding. Th
 
 ## Works
 
-- [[Modern Art Canon]]
 - [[Music Has the Right to Children]]
 - [[Geogaddi]]
 - [[The Rings of Saturn]]
@@ -35,6 +55,22 @@ Some notes are finished enough to read as essays. Some are still scaffolding. Th
 - [[Mulholland Drive]]
 - [[Lost Highway]]
 - [[The OA]]
+- [[The Ninth Gate]]
+- [[Dante - The Divine Comedy]]
+- [[Faust]]
+
+## Artists / People
+
+- [[Boards of Canada Hub]]
+- [[Adam Curtis]]
+- [[Anselm Kiefer]]
+- [[Edward Hopper]]
+- [[Kate Gibb]]
+- [[Maria Svarbova]]
+- [[Neil Krug]]
+- [[Carl Jung]]
+- [[Walter Benjamin]]
+- [[Mark Fisher]]
 
 ## Interpretive Tools
 
@@ -46,7 +82,10 @@ These are not normal topics. They are ways of reading the rest of the vault.
 - [[Fan Archaeology]]
 - [[Dream Logic]]
 - [[Sacred Technology]]
-- [[Apocalypse as Overlay]]
+- [[The Past Inside the Present]]
+- [[The Death of Nostalgia]]
+- [[Hidden Architecture]]
+- [[The Witness]]
 
 ## Symbols
 
@@ -61,8 +100,10 @@ These are not normal topics. They are ways of reading the rest of the vault.
 - [[Fire]]
 - [[Road]]
 - [[Forest]]
+- [[Desert]]
 - [[Children]]
 - [[Heart]]
+- [[Saturn]]
 
 ## Core Questions
 
@@ -75,6 +116,6 @@ These are not normal topics. They are ways of reading the rest of the vault.
 
 ## Cleanup Principle
 
-From this point onward, the vault should grow more slowly.
+A note should not only sound interesting.
 
-A note should not only sound interesting. It should have bones: factual context, clear status, meaningful links and a reason to exist here.
+It should have bones: factual context, clear status, meaningful links and a reason to exist here.
