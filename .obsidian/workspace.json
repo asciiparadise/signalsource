@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6fbb82ac8bfdc972",
+        "id": "a10079adf33a47dd",
         "type": "tabs",
         "children": [
           {
-            "id": "54b51eaaecd8a7fb",
+            "id": "ae5af9a332079912",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Inferno",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,8 @@
               "title": "Bokmerker"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,35 +179,35 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "54b51eaaecd8a7fb",
+  "active": "ae5af9a332079912",
   "lastOpenFiles": [
+    "06 - Boards of Canada/Boards of Canada Hub.md",
+    "Boards of Canada - Inferno.md",
+    "05 - Concepts/The Death of Nostalgia.md",
+    "Book.md",
+    "12 - Hidden History and Conspiracy/Operation Midnight Climax.md",
+    "12 - Hidden History and Conspiracy/Montauk Project.md",
+    "12 - Hidden History and Conspiracy/FBI.md",
+    "12 - Hidden History and Conspiracy/Conspiracy Theories.md",
+    "12 - Hidden History and Conspiracy/Cold War Paranoia.md",
+    "12 - Hidden History and Conspiracy/COINTELPRO.md",
+    "12 - Hidden History and Conspiracy/CIA.md",
+    "12 - Hidden History and Conspiracy/Agent Orange.md",
+    "11 - Psyche and Consciousness/Trauma.md",
+    "11 - Psyche and Consciousness/The Self.md",
+    "11 - Psyche and Consciousness/The Psyche.md",
+    "11 - Psyche and Consciousness/Symbolic Thinking.md",
+    "11 - Psyche and Consciousness/Dreams.md",
+    "11 - Psyche and Consciousness/Dissociation.md",
+    "11 - Psyche and Consciousness/Altered States.md",
+    "10 - Cosmos/Zodiac.md",
+    "10 - Cosmos/Astrology.md",
+    "05 - Concepts/The Witness.md",
+    "05 - Concepts/The Past Inside the Present.md",
+    "05 - Concepts/Hidden Architecture.md",
     "00 - Start Here/Vault Audit - Structure and Cleanup.md",
     "04 - Symbol Index/Desert.md",
-    "Tower.md",
-    "03 - Themes/Memory.md",
-    "05 - Concepts/Sacred Technology.md",
-    "00 - Start Here/Open Threads and Missing Notes.md",
-    "05 - Concepts/Dream Logic.md",
-    "01 - Works/Literature/House of Leaves.md",
-    "04 - Symbol Index/Labyrinth.md",
-    "02 - People/Goethe.md",
     "02 - People",
-    "01 - Works/Literature/Faust.md",
-    "01 - Works/Literature/Dante - Purgatorio.md",
-    "01 - Works/Literature/Dante - Paradiso.md",
-    "01 - Works/Literature/Dante - Inferno.md",
-    "01 - Works/Literature/Dante - The Divine Comedy.md",
-    "03 - Themes/Architecture.md",
-    "03 - Themes/Ludwig Mies van der Rohe.md",
-    "Corporate Modernism.md",
-    "01 - Works/Film/The Ninth Gate.md",
-    "06 - Boards of Canada/Michael Peter Sandison.md",
-    "06 - Boards of Canada/Marcus Eoin Sandison.md",
-    "00 - Start Here/Signal Source Cosmology.md",
-    "00 - Start Here/Modern Art Canon.md",
-    "01 - Works/Music/Music Has the Right to Children.md",
-    "01 - Works/Music/The Disintegration Loops.md",
-    "Under the Silver Lake.md",
     "13 - Religion Culture and Tradition",
     "05 - Concepts",
     "90 - Style",
