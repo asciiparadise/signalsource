@@ -11,10 +11,14 @@
             "id": "54b51eaaecd8a7fb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Grafvisnining"
+              "type": "markdown",
+              "state": {
+                "file": "03 - Themes/Pastoral.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pastoral"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "03 - Themes/Pastoral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Lenker tilbake"
+              "title": "Lenker som fører til Pastoral"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "03 - Themes/Pastoral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing Links"
+              "title": "Utgående lenker fra Pastoral"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "03 - Themes/Pastoral.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Disposisjon"
+              "title": "Disposjon til Pastoral"
             }
           }
         ]
@@ -178,32 +185,33 @@
   },
   "active": "54b51eaaecd8a7fb",
   "lastOpenFiles": [
-    "00 - Start Here/Modern Art Canon.md",
-    "03 - Themes/Time Signature.md",
-    "03 - Themes/Musical Composition.md",
-    "01 - Works/Film/One Battle After Another.md",
-    "01 - Works/Film/Donnie Darko.md",
-    "06 - Boards of Canada/Discography/Acid Memories.md",
-    "06 - Boards of Canada/Articles/Hexagons Everywhere - Inferno Listening Session Afterimage.md",
-    "06 - Boards of Canada/Articles/Corduroy Psychedelia - Boards of Canada Hauntology and the PBS Unconscious.md",
-    "03 - Themes/Fibonacci Sequence.md",
-    "03 - Themes/Fan Archaeology.md",
-    "01 - Works/Television/Twin Peaks - The Return.md",
-    "01 - Works/Television/The OA.md",
-    "01 - Works/Visual Art/Christinas World.md",
-    "01 - Works/Visual Art/Big Active.md",
-    "01 - Works/Visual Art/Anselm Kiefer.md",
-    "03 - Themes/Hauntology.md",
-    "03 - Themes/Entropy.md",
-    "03 - Themes/Decay.md",
-    "03 - Themes/The Uncanny.md",
-    "07 - Cults and Esoterica/Ritual and Control.md",
-    "Ritual.md",
-    "07 - Cults and Esoterica/Thelema.md",
-    "07 - Cults and Esoterica/Cults.md",
-    "01 - Works/Film/Lost Highway.md",
+    "03 - Themes/Numbers.md",
+    "04 - Symbol Index/Desert.md",
+    "03 - Themes/Landscape.md",
+    "03 - Themes/Childhood.md",
+    "03 - Themes/Apocalypse as Overlay.md",
+    "03 - Themes/Americana.md",
+    "01 - Works/Music/The Disintegration Loops.md",
+    "01 - Works/Music/Inferno.md",
+    "01 - Works/Music/Music Has the Right to Children.md",
+    "01 - Works/Literature/The Book of Disquiet.md",
     "01 - Works/Film/The Tree of Life.md",
     "01 - Works/Film/The House That Jack Built.md",
+    "01 - Works/Film/One Battle After Another.md",
+    "01 - Works/Film/Stalker.md",
+    "01 - Works/Film/Lost Highway.md",
+    "01 - Works/Film/Donnie Darko.md",
+    "06 - Boards of Canada/Listening Parties/Inferno Listening Party Report.md",
+    "06 - Boards of Canada/Articles/Hexagons Everywhere - Inferno Listening Session Afterimage.md",
+    "06 - Boards of Canada/Articles/Corduroy Psychedelia - Boards of Canada Hauntology and the PBS Unconscious.md",
+    "06 - Boards of Canada/Discography/Hooper Bay.md",
+    "06 - Boards of Canada/Discography/Play by Numbers.md",
+    "06 - Boards of Canada/Discography/Acid Memories.md",
+    "06 - Boards of Canada/Discography/Boards of Canada Discography.md",
+    "06 - Boards of Canada/Boards of Canada Hub.md",
+    "04 - Symbol Index/Tape.md",
+    "04 - Symbol Index/Static.md",
+    "05 - Concepts",
     "90 - Style",
     "12 - Hidden History and Conspiracy",
     "11 - Psyche and Consciousness",
@@ -212,7 +220,6 @@
     "06 - Boards of Canada/Discography",
     "08 - Twin Peaks and David Lynch",
     "07 - Cults and Esoterica",
-    "01 - Works/Visual Art",
-    "01 - Works/Television"
+    "01 - Works/Visual Art"
   ]
 }
