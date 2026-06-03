@@ -67,6 +67,12 @@ Factual-status sections added to:
 - [[Saturn]]
 - [[Astrology]]
 - [[Zodiac]]
+- [[CIA]]
+- [[FBI]]
+- [[Agent Orange]]
+- [[Montauk Project]]
+- [[Cold War Paranoia]]
+- [[Conspiracy Theories]]
 - [[MKUltra]]
 - [[Number Stations]]
 
@@ -213,7 +219,20 @@ Split this area clearly into scientific cosmos and symbolic cosmos.
 
 # Hidden History and Conspiracy Cleanup
 
-This section needs evidence-status discipline before expansion.
+## Priority Notes Completed
+
+- [[CIA]]
+- [[FBI]]
+- [[Agent Orange]]
+- [[Montauk Project]]
+- [[Cold War Paranoia]]
+- [[Conspiracy Theories]]
+- [[MKUltra]]
+- [[Number Stations]]
+
+## Ongoing Rule
+
+This section needs evidence-status discipline.
 
 Every note should contain:
 
@@ -222,20 +241,6 @@ Every note should contain:
 
 Documented / disputed / folklore / artistic influence.
 ```
-
-## Priority Notes Completed
-
-- [[MKUltra]]
-- [[Number Stations]]
-
-## Still Needed
-
-- [[CIA]]
-- [[FBI]]
-- [[Agent Orange]]
-- [[Montauk Project]]
-- [[Cold War Paranoia]]
-- [[Conspiracy Theories]]
 
 ---
 
