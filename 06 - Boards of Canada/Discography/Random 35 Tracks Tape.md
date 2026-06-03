@@ -8,6 +8,24 @@
 
 Early tape / rare release / fan-circulated archive
 
+## Factual Status
+
+**Status:** fan-circulated archive object.
+
+This should be treated as part of the early Boards of Canada archive rather than as a clean official release. It is useful because of what it reveals, but also because of how it circulates: through fan memory, reconstruction and partial context.
+
+## What We Actually Know
+
+The important point is that *Random 35 Tracks Tape* is discussed as part of the early, non-canonical Boards of Canada material.
+
+Its value is not only in individual tracks, but in the way it gives listeners a messy, fragmentary sense of the pre-public world.
+
+## What Is Mythology
+
+The mythology comes from the object's plainness and incompleteness.
+
+The title almost refuses significance, but that refusal makes it feel more found. A cassette, a collection, a batch of tracks, a document from before the official story became stable.
+
 ## Why It Matters
 
 The title itself feels almost anti-mythological.

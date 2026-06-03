@@ -6,7 +6,25 @@
 
 ## Release Type
 
-Early tape / rare release
+Early tape / rare release / fan-circulated archive
+
+## Factual Status
+
+**Status:** fan-circulated early material / archive object.
+
+*Old Tunes Vol. 2* should be handled as early archive material, not as a conventional public release. It is useful for understanding the pre-canonical Boards of Canada atmosphere, but the note should avoid pretending there is a stable official frame around it.
+
+## What We Actually Know
+
+This material is generally discussed alongside [[A Few Old Tunes]] and [[Random 35 Tracks Tape]] as part of the early Boards of Canada archive.
+
+It gives listeners access to sketches, fragments and early forms of the atmosphere that later became more controlled in the official records.
+
+## What Is Mythology
+
+The mythology comes from listening backward.
+
+Because we already know the later albums, the early fragments begin to glow with origin-significance. That can be meaningful, but it is also retrospective. We hear the myth before the myth knew what it was.
 
 ## Why It Matters
 
