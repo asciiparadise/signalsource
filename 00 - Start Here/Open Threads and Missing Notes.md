@@ -47,6 +47,11 @@ Factual-status sections added to:
 - [[Trauma]]
 - [[The Shadow]]
 - [[Consciousness]]
+- [[The Psyche]]
+- [[The Self]]
+- [[Dreams]]
+- [[Altered States]]
+- [[Dissociation]]
 
 ## Philosophy / Cosmos / Hidden History Notes Added
 
@@ -88,14 +93,15 @@ These notes are central because many other notes link to them.
 - [[Trauma]]
 - [[The Shadow]]
 - [[Consciousness]]
-
-## Needs Creation or Cleanup
-
-- [[The Self]]
 - [[The Psyche]]
+- [[The Self]]
 - [[Dreams]]
 - [[Altered States]]
 - [[Dissociation]]
+
+## Needs Creation or Cleanup
+
+- None urgent in this cluster.
 
 ---
 
@@ -187,17 +193,14 @@ Split this area clearly into scientific cosmos and symbolic cosmos.
 ## Priority Notes Completed
 
 - [[Consciousness]]
-- [[The Shadow]]
-- [[Trauma]]
-- [[Symbolic Thinking]]
-
-## Still Needed
-
 - [[The Psyche]]
 - [[The Self]]
+- [[The Shadow]]
 - [[Dreams]]
+- [[Trauma]]
 - [[Altered States]]
 - [[Dissociation]]
+- [[Symbolic Thinking]]
 
 ## Later / Optional
 
