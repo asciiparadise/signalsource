@@ -11,10 +11,14 @@
             "id": "ae5af9a332079912",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Grafvisnining"
+              "type": "markdown",
+              "state": {
+                "file": "Empty/The Campfire Headphase.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Campfire Headphase"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "michael",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Empty/The Campfire Headphase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Lenker tilbake"
+              "title": "Lenker som fører til The Campfire Headphase"
             }
           },
           {
@@ -180,42 +185,43 @@
   },
   "active": "ae5af9a332079912",
   "lastOpenFiles": [
-    "02 - People/Adam Curtis.md",
-    "02 - People/Goethe.md",
-    "01 - Works/Books/The Story of Cybernetics - Maurice Trask.md",
-    "Corporate Modernism.md",
+    "Empty/The Psyche.md",
+    "01 - Exitence/The Psyche.md",
+    "02 - Religion Culture and Tradition/Satanic Panic.md",
+    "02 - Religion Culture and Tradition/Ritual.md",
+    "Empty/CIA.md",
     "CIA.md",
-    "Book.md",
-    "Boards of Canada - Inferno.md",
-    "90 - Style/My Reflective Style.md",
-    "13 - Religion Culture and Tradition/Religion Culture and Tradition Hub.md",
-    "13 - Religion Culture and Tradition/Religions of the World.md",
-    "05 - Concepts/Concepts Hub.md",
-    "03 - Themes/Le Corbusier.md",
-    "03 - Themes/Bauhaus.md",
-    "03 - Themes/Childhood.md",
-    "01 - Works/Music/Geogaddi.md",
-    "01 - Works/Literature/Faust.md",
-    "01 - Works/Literature/Dante - The Divine Comedy.md",
-    "01 - Works/Literature/Dante - Inferno.md",
-    "01 - Works/Literature/Dante - Purgatorio.md",
-    "01 - Works/Literature/Dante - Paradiso.md",
-    "00 - Start Here/Artist Index.md",
-    "Uten tittel.canvas",
-    "10 - Cosmos/The Big Bang.md",
-    "06 - Boards of Canada/Discography/Boards of Canada Discography.md",
-    "06 - Boards of Canada/Articles/Hexagons Everywhere - Inferno Listening Session Afterimage.md",
-    "04 - Symbol Index/Hexagon.md",
-    "06 - Boards of Canada/Articles/Corduroy Psychedelia - Boards of Canada Hauntology and the PBS Unconscious.md",
-    "01 - Works/Exhibitions",
-    "01 - Works/Books",
-    "02 - People",
-    "13 - Religion Culture and Tradition",
-    "05 - Concepts",
-    "90 - Style",
-    "12 - Hidden History and Conspiracy",
-    "11 - Psyche and Consciousness",
-    "10 - Cosmos",
-    "09 - Philosophy"
+    "Empty/Satanic Panic.md",
+    "Empty/Ritual.md",
+    "Empty/Hidden Systems.md",
+    "Empty/Corporate Modernism.md",
+    "Empty/Book.md",
+    "Empty/Boards of Canada - Inferno.md",
+    "00 - Start Here/Signal Source Cosmology.md",
+    "02 - Religion Culture and Tradition/Cults and Esoterica/Aleister Crowley.md",
+    "02 - Religion Culture and Tradition/Mortality.md",
+    "01 - Exitence/Concepts/Memory.md",
+    "01 - Exitence/Concepts/Apocalypse as Overlay.md",
+    "01 - Exitence/Concepts/Childhood.md",
+    "01 - Exitence/Cosmos/Zodiac.md",
+    "01 - Exitence/Cosmos/The Big Bang.md",
+    "01 - Exitence/Cosmos/Saturn.md",
+    "01 - Exitence/Cosmos/Cosmos Hub.md",
+    "01 - Exitence/Cosmos/Black Holes.md",
+    "01 - Exitence/Cosmos/Astrology.md",
+    "01 - Exitence/Cosmos",
+    "01 - Exitence/Psyche and Consciousness/Trauma.md",
+    "01 - Exitence/Psyche and Consciousness/The Shadow.md",
+    "01 - Exitence/Psyche and Consciousness",
+    "01 - Exitence/Concepts",
+    "01 - Exitence/05 - Concepts",
+    "10 - Technology",
+    "10 - Technplogy",
+    "untitled folder",
+    "13 - Exhibitions",
+    "12 - Themes/Symbol Index",
+    "12 - Themes/90 - Style",
+    "Empty/Uten tittel.canvas",
+    "Uten tittel.canvas"
   ]
 }
